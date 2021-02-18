@@ -1,18 +1,14 @@
-![cover](https://cotenfrontend.pl/img/cover.png)
+![water](./public/hydrapp.png)
 
-# WTF Webpack Starter Kit 
+# Hydrapp
 
-Simple toolkit for your static websites development.
+Aplikacja służy do zliczania ilości szklanek wypitej wody w ciągu dnia.
 
-## How to use it?
+## Zasada działania aplikacji
 
-Click on `Use this template` button to generate a new repository based on this starter kit. After that clone it to your computer, go to the project directory in console and type `npm install`.
+Jedno kliknięcie w przycisk "dodaj szklankę" oznacza wypicie 1 szklanki wody. 
+Gdy się pomylimy lub nie wypijemy szklanki wody, mamy możliwość cofnięcia poprzez naciśnięcie przycisku "usuń szklankę".
 
-## Available scripts
 
-`npm run start` - runs development mode
-
-`npm run build` - runs build process for production
-
-`npm run publish` - runs build process and publish the page using `gh-pages` branch
-
+*zalecane jest wypicie od 1,5 - 2 L wody dziennie.
+*szklanka jest o pojemności 250ml .
