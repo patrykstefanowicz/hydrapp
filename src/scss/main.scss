@@ -1,6 +1,7 @@
 @import "modules/app.scss";
 @import "modules/glass.scss";
 @import "modules/buttons.scss";
+@import "modules/designer.scss";
 @import "~normalize.css";
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;500&display=swap');
 
@@ -15,3 +16,5 @@ body {
   justify-content: center;
   min-height: 100vh;
 }
+
+
